@@ -1,8 +1,8 @@
-#IDX FILE PARSER
+# IDX FILE PARSER
 
 Go version of idx file parser. Not completed implementation. Only for unsigned byte data types. For labels and images.
 
-###Usage
+### Usage
 
 ```
 go get github.com/maglink/idx-parser
@@ -33,7 +33,7 @@ func main() {
 
 ```
 
-###THE IDX FILE FORMAT
+### THE IDX FILE FORMAT
 
 the IDX file format is a simple format for vectors and multidimensional matrices of various numerical types.
 <br>The basic format is
