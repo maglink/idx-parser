@@ -12,7 +12,7 @@ go get github.com/maglink/idx-parser
 package main
 
 import (
-	"log"
+    "log"
     "github.com/maglink/idx-parser"
 )
 
